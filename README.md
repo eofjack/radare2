@@ -1,2 +1,3 @@
 # radare2
-cheat sheet
+open program in debug mode  
+  r2 -d /path/program
