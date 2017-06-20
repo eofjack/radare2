@@ -5,4 +5,8 @@ open program in debug mode
 
 static analysis  
   * i? -- get lots of info about file
-  * iz -- get static string
+  * iz -- get static string 
+
+Visual mode
+  * v - enter visual mode
+  * Shift+V - viusally display jump logic
