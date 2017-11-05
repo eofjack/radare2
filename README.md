@@ -10,3 +10,7 @@ static analysis
 Visual mode
   * v - enter visual mode
   * Shift+V - viusally display jump logic
+
+int 80x- system call
+
+ dcu - continue until 
